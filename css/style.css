@@ -1,0 +1,149 @@
+.header{
+	position: absolute;
+	color: #fff;
+}
+.banner {
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    height: 50vh;
+}
+.logo{
+	color:#fff;
+	font-size: 60px;
+	text-align: center;
+	margin-right:10px;
+	display: flex;
+	align-items: center;  
+}
+.fa.fa-globe{
+	color:#fff;
+	margin-right: .5rem;
+}
+.logo-phone{
+	color:#fff;
+    font-size: 40px;
+    display: flex;
+    float: right;
+    align-items: center;
+}
+.logo-mail{
+	color:#fff;
+	font-size: 35px;
+	display: flex;
+	float: right;
+	align-items: center;
+}
+h6{
+	margin-left:0.5rem;
+	display: flex;
+}
+.nav-items{
+	width: 100%;
+    justify-content: space-between;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+    width: 320px;
+    padding: 10px;
+    border-top: 2px solid gray;
+    margin: 0;
+
+}
+a{
+	color:#fff;
+}
+a:hover {
+    color: red;
+    text-decoration:none;
+}
+.fa.fa-mouse-pointer, .fa.fa-keyboard-o, .fa.fa-volume-up, .fa.fa-headphones, .fa.fa-television{
+	color: #000;
+    font-size: 5rem;
+    position: relative;
+    padding: 2rem;
+}
+.tab-menu{
+	background-color:#fff;
+    border-radius: 8px;
+    color: #330099;
+    width: 80%;
+    height: 10rem;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: -5rem;
+   	margin: auto;
+   	box-shadow: 7px 7px 30px 10px rgb(0 0 0 / 20%);
+ }
+.nav-pills .nav-link.active{
+	position: relative;
+    top: -1rem;
+    background-image: linear-gradient(to bottom left,#0971bb,#e93f98);
+}
+.nav-pills .nav-link.active>.fa{
+	color: #fff;
+}
+.ct-header{
+	text-align: center;
+	width:100%;
+	margin-bottom: 3rem;
+}
+.block-img{
+	width: 450px;
+}
+.ct-header-img{
+	width: 100%;
+	margin: auto;
+}
+.ct-headerimg02{
+	text-align: center;
+	width:100%;
+	margin-top: 3rem;
+	margin-bottom: 3rem;
+}
+.text-television{
+	margin-top: 2rem;
+}
+.block-img02{
+	width: 450px;
+	margin: auto;
+}
+.text-volume{
+	margin-top: 2rem;
+}
+.bg-footer{	
+	background-image: linear-gradient(to top right,#0971bb,#e93f98);
+	display: flex;
+	padding: 3rem;
+
+}
+.fa.fa-globe{
+	font-size:5rem;
+	color:#fff;
+	font-size: 60px;
+	text-align: center;
+	margin-right:10px;
+	display: flex;
+	align-items: center;
+}
+.icon-footer{
+	display: flex;
+	align-items: center;
+}
+.icon-footer-text{
+	margin-left:0.5rem;
+	display: flex;
+	margin-top:1rem;
+	color:#FFFFFF;
+}
+.text-footer{
+	color:#FFFFFF;
+}
+h6{
+	color:#FFFFFF;
+}
+ul{
+   	margin-bottom: 0rem;
+}
